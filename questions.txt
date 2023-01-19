@@ -1,0 +1,11 @@
+1. Which top 10 listing has highest price? (price = sum of daily price and other fees)
+2. List top 10 most booked listings. (sort by total count of not available desc, show listing table's full row)
+3. List top 10 cheapest listings. (price = sum of daily price and other fees)
+4. List top 10 least booked listings. (sort by total count of available desc, show listing table's full row)
+5. List top 10 hosts having most listings. (in result, columns should have host related data only)
+6. List down all verification methods. (listings->host_verifications)
+7. List top 10 listings having highest total number of reviews.
+8. List top 10 listing where maximum_nights are cheapest. (price = sum of daily price and other fees)
+9. List top 10 listings where minimum_nights are most expensive (price = sum of daily price and other fees)
+10. List top 10 listings where 4 people can stay for a month for cheapest price. (price = sum of monthly price and other fees. also consider daily extra people price)
+11. 
