@@ -8,4 +8,7 @@
 8. List top 10 listing where maximum_nights are cheapest. (price = sum of daily price and other fees)
 9. List top 10 listings where minimum_nights are most expensive (price = sum of daily price and other fees)
 10. List top 10 listings where 4 people can stay for a month for cheapest price. (price = sum of monthly price and other fees. also consider daily extra people price)
-11. 
+11. In which month given listing is cheapest? (listing id input to be taken as user input)
+12. In which month given listing is most expensive? (listing id input to be taken as user input)
+13. Which area has highest prices? (find the pincode and areaname having highest daily prices)
+14. For given area(pincode), which month has highest prices(from calendar table)? (pincode to be taken from user input)
